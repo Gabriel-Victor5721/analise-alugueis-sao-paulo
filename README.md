@@ -36,7 +36,7 @@ A base utilizada possui 11.657 registros e 8 colunas:
 |---|---|
 | address | Endereço do imóvel |
 | district | Localidade ou distrito do imóvel |
-| area | Área do imóvel |
+| area | Área do imovel |
 | bedrooms | Quantidade de quartos |
 | garage | Quantidade de vagas de garagem |
 | type | Tipo do imóvel |
